@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Projetos\2AI\pw2\Ana-Kaleb\.metadata\.plugins\org.eclipse.jdt.core
+3802117102.index
+1823693725.index
